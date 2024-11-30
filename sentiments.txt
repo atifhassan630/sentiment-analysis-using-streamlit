@@ -1,0 +1,23 @@
+Neutral Sentiments:
+
+    "The weather is mild today."
+    "I am going to the store."
+    "This is a test message."
+    "The meeting was scheduled for next week."
+    "I have no strong feelings about it."
+
+Positive Sentiments:
+
+    "I had a great time at the concert!"
+    "The movie was absolutely amazing!"
+    "I love spending time with my family."
+    "The project is going really well."
+    "I feel so happy and excited about this opportunity!"
+
+Negative Sentiments:
+
+    "I am feeling really down today."
+    "This weather is terrible."
+    "I’m very disappointed with the results."
+    "I didn’t like the service at the restaurant."
+    "I can’t believe how bad this situation is."
